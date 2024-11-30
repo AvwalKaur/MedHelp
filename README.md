@@ -1,5 +1,5 @@
 # MedHelp 
-https://medhelp-roan.vercel.app/
+https://medhelp-roan.vercel.app/ (AWS Cloud Cohort Project)
 ### MedHelp is a user-friendly web application designed to
-- [x] Simplify the process of booking and managing medical appointments
+- [x] Simplify the process of booking and managing medical appointments.
 - [x] Provide a streamlined experience for patients to track appointment availability and schedule consultations with ease.
